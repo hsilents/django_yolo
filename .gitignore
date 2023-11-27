@@ -1,0 +1,8 @@
+myblog/media
+myblog/db.sqlite3
+*.sqlite3
+
+yolov5/runs/detect
+
+*.mp4
+*.sqlite3
